@@ -25,7 +25,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 from xgboost import XGBClassifier
 
 
-root_path = '/Users/maxdecorso/Downloads/Intel Training Dataset'
+root_path = 'FILE_PATH'
 
 
 # split into subfolders based on class label
